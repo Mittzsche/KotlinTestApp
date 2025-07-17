@@ -1,4 +1,4 @@
-# TestKompetensi Android App
+# Test Kompetensi Android App
 
 Aplikasi Android sederhana yang dibangun untuk tujuan kompetensi/penilaian, menampilkan fungsionalitas dasar Android seperti input form, pengecekan palindrom, navigasi antar layar, pengambilan data dari API, dan tampilan daftar dengan RecyclerView.
 
