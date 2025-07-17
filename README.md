@@ -51,9 +51,8 @@ Data pengguna diambil dari: `https://reqres.in/api/users`
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/Mittzsche/KotlinTestApp.git](https://github.com/Mittzsche/KotlinTestApp.git)
+    git clone https://github.com/Mittzsche/KotlinTestApp.git
     ```
-    (Ganti `Mittzsche/KotlinTestApp` dengan URL repository Anda jika sudah final)
 2.  **Buka di Android Studio:**
     Buka folder proyek hasil kloning (`KotlinTestApp`) di Android Studio.
 3.  **Sync Gradle:**
@@ -67,8 +66,6 @@ Proyek ini menggunakan Gradle Version Catalogs (`libs.versions.toml`) untuk mana
 
 ## Author
 
-[Nama Lengkap Anda]
-* [Opsional: Profil LinkedIn Anda]
-* [Opsional: Email Anda]
+Ahmad Fadhel Hafizhuddin / Mittzsche
 
 ---
