@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Default Color
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    // Color
+    <color name="button">#365E68</color>
+    <color name="profile_icon_background">#994EB1C1</color>
+
+    // Login Page Color
+    <color name="gradient_top_right">#B4D5C9</color>
+    <color name="gradient_center">#5FB0BE</color>
+    <color name="gradient_mid_bottom">#8B9AAE</color>
+    <color name="gradient_bottom">#416086</color>
+</resources>
