@@ -14,7 +14,6 @@ Aplikasi Android sederhana yang dibangun untuk tujuan kompetensi/penilaian, mena
     * Menampilkan sapaan "Welcome" dan nama pengguna yang diambil dari First Screen.
     * Menampilkan label "Selected User Name" yang akan diperbarui dari Third Screen.
     * Tombol "Choose a User" yang akan menavigasi ke Third Screen.
-    * Tombol "Choose a User" memiliki perilaku sembunyi/muncul saat scrolling ke bawah/atas (jika konten layar bisa di-scroll).
 
 * **Layar Ketiga (Third Screen):**
     * Menampilkan daftar pengguna yang diambil dari API `https://reqres.in`.
